@@ -1,10 +1,11 @@
 # Intelligent Electronic Component Search 
 
-![IntelligentElectronicComponentSearch](image.PNG)
 
 ## Overview
 
 This project is an intelligent system for searching electronic components through APIs from major electronic component retailers. The tool allows users to check stock availability and pricing from different stores for the components and quantities requested. By doing so, it helps reduce costs significantly by identifying the most affordable options across various suppliers.
+
+![IntelligentElectronicComponentSearch](image.PNG)
 
 ## Features
 
