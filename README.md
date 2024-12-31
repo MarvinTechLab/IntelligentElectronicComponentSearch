@@ -41,7 +41,7 @@ The tool interacts with various APIs from leading electronic component suppliers
    Clone the repository to your local machine by running:
 
    ```bash
-   git clone https://github.com/your-username/intelligent-electronic-component-search.git
+   git clone https://github.com/MarvinTechLab/IntelligentElectronicComponentSearch.git
    ```
 
 3. **Install dependencies**
